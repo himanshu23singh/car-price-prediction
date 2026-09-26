@@ -97,7 +97,3 @@ These metrics were used to evaluate how accurately the model predicts car prices
 * Jupyter Notebook
 * Git
 * GitHub
-
-⚙️ Installation
-
-Clone the repository:
